@@ -1,7 +1,7 @@
 # _config.yml
 
 title: "Parallel Fenwick Tree"  # Displayed as your site’s title
-description: "Final Project for 15-418/618"
+description: "Final Project for 15-418/618, Spring 2025"
 # Select a built-in theme. Others include: minima, cayman, slate, hacker...
 theme: jekyll-theme-cayman
 
