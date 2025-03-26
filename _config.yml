@@ -1,0 +1,14 @@
+# _config.yml
+
+title: "Parallel Fenwick Tree"  # Displayed as your site’s title
+description: "Final Project for 15-418/618"
+# Select a built-in theme. Others include: minima, cayman, slate, hacker...
+theme: jekyll-theme-cayman
+
+# The baseurl is useful if your site is at: user.github.io/<repoName>.
+# If your repository name is final-project-proposal, uncomment:
+baseurl: "/ParallelFenwickTree"
+
+# For GitHub Pages:
+plugins:
+  - jekyll-feed
