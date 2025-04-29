@@ -6,4 +6,12 @@ permalink: "/final-report"
 
 # Final Report
 
-**Last Updated**: Mar 26, 2025
+## Project Web Page
+> [https://erictsengty.github.io/ParallelFenwickTree](https://erictsengty.github.io/ParallelFenwickTree)
+
+## Final Report PDF
+[Parallel Fenwick Tree - Final Report](https://erictsengty.github.io/ParallelFenwickTree/assets/pdfs/final_report.pdf)
+
+
+
+**Last Updated**: Apr 28, 2025
